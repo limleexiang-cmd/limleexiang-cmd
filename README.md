@@ -12,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 -lim74425@gmail.com
+
 -www.linkedin.com/in/lim-lee-xiang-a51a59392
 <p align="left">
 </p>
