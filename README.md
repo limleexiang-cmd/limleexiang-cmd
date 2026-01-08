@@ -55,9 +55,13 @@ I am a First-Year student that is taking Computer Science at Universiti Teknolog
 
 Activities:  
   ➤INSIGHTX 6-system development
+  
   ➤PPG talks
+  
   ➤Talks in IT industry
+  
   ➤"SAMBUTAN BULAN KEMERDEKAAN"
+  
   ➤KARNIVAL SUKAN MINGGU MESRA MAHASISWA
   
 
