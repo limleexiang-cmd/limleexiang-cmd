@@ -38,7 +38,7 @@ I am a First-Year student that is taking Computer Science at Universiti Teknolog
 **Soft Skill**  
 
   ➤ Operations Support: Skilled in coordinating "behind-the-scenes" logistics to ensure project success.  
-  ➤ Collaborative Communication: Skills in communicating in group and suit my self in group.    
+  ➤ Collaborative Communication: Skills in communicating in group and be able suit myself in group.    
   ➤ Problem-Solving: Could quickly develop fundamental in a problem and using strong logical skills to manage the problem and find a solution.    
 
 ## Courses 📚  
