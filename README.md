@@ -7,7 +7,7 @@ I am a First-Year student that is taking Computer Science at Universiti Teknolog
 
  **SMJK TANAH PUTEH (January 2019 - March 2024)**  
 
-  ➤ Sijil Plajaran Malaysia (SPM) in Science Stream   
+  ➤ Sijil Pelajaran Malaysia (SPM) in Science Stream   
   ➤ SPM : 8As 1B 1C  
   
 **Foundation in UTM (July 2024 - June 2025)**  
