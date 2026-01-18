@@ -72,3 +72,8 @@ Awards:
 
 Sports & Training:  
   ➤ Wukwon poomsae bronze medal taker  
+
+## 📫 Contact
+- GitHub: [limleexiang-cmd]
+- Linkin: [limleexiang]
+- Gmail : [xianglim16@gmail.com]
