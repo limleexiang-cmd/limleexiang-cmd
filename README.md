@@ -12,8 +12,8 @@ I am a First-Year student that is taking Computer Science at Universiti Teknolog
   
 **Foundation in UTM (July 2024 - June 2025)**  
 
-  ➤ Higher National Diploma in Physical Science   
-  ➤ CGPA : 3.92  
+  ➤ Foundation in Physical Science   
+  ➤ CGPA : 4.0 
   ➤ MUET : 4.5 
   
 **Universiti Teknologi Malaysia (October 2025 - Present)**  
