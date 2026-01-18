@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 # Greetings and welcome to my profile! 🤗🎶
-I am a First-Year student that is taking Computer Science at Universiti Teknologi Malaysia (UTM) focusing in Computer Networks and Security. I'm holding a strong basics in my foundation year (4.00 CGPA) and a background of computer science background, I am passionate about building an software for malware or antivirus. I thrive in 'behind-the-scenes' technical operations and currently securing my place in skills needing C++, and softskills on excel. I am eager to connect with professionals in the cybersecurity space and explore more in cyberthreat industry while i am a quick learner.
+I am a First-Year student that is taking Computer Science at Universiti Teknologi Malaysia (UTM) focusing in Computer Networks and Security. I'm holding a strong basics in my foundation year (4.00 CGPA) and a background of computer science background, I am passionate about building an software for malware or antivirus. I thrive in 'behind-the-scenes' technical operations and currently securing my place in skills needing C++, and softskills on excel. I am eager to connect with professionals in the cybersecurity space and explore more in cyberthreat industry while i am a quick learner. In the future of becoming agentic coder.🔐 🔓 🛡️
 
 ## Education 🧑🏻‍🎓
 
